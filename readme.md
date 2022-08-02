@@ -19,7 +19,7 @@
 ![alt text](/Product%20Design%20Page%20(1).png)
 
 * ## Things i learned from this Project:
-    1. No New learnings.
+    1. Grid and hover effects.
 
 * ## Honest time taken to complete the project:
     __Around TWO and half hours__
