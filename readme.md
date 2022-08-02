@@ -11,7 +11,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 * ## Link for netlify:
-    [Product Design Project](https://15-product-design.vercel.app/)
+    [Product Design Project](https://vercel.com/aryan-namdev/15-product-design)
 
 
  * ## Overview
