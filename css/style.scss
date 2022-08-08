@@ -299,7 +299,7 @@ section{
             &:hover{
                 background-color: $accent-color;
                 transition: 250ms ease-in-out;
-                transform: translate(-3px,-3px)
+                transform: scale(1);
             }
 
             img{

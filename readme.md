@@ -11,7 +11,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 * ## Link for netlify:
-    [Product Design](https://subtle-pie-228f82.netlify.app/)
+    [Product Design](https://product-design-proj.netlify.app/)
 
 
  * ## Overview
